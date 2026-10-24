@@ -1,0 +1,94 @@
+/* Vefago Co. — generated from tokens.json */
+:root, [data-theme="light"] {
+  --surface: var(--cream-200);
+  --surface-raised: #ffffff;
+  --surface-blue: #eff2f7;
+  --surface-cream: var(--cream-100);
+  --icon-tile: var(--signature-blue);
+  --line: var(--tan-100);
+  --ink: #2f353d;
+  --ink-muted: #626262;
+  --brand: #5d6979;
+  --brand-strong: #464f5b;
+  --on-brand: #ffffff;
+  --gold: #dedac8;
+  --gold-wash: var(--gold-100);
+  --gold-rule: var(--gold-300);
+  --gold-ink: var(--tan-500);
+  --photo-ring: var(--tan-200);
+  --signature-blue: #beccdf;
+  --focus-ring: #5d6979;
+  --blue-100: #eff2f7;
+  --blue-200: #dee6ef;
+  --blue-300: #ced9e7;
+  --blue-400: #bdccdf;
+  --blue-500: #8e99a7;
+  --blue-600: #5f6670;
+  --blue-700: #2f3338;
+  --slate-100: #d7dade;
+  --slate-200: #aeb4bc;
+  --slate-300: #858f9b;
+  --slate-400: #5d6979;
+  --slate-500: #464f5b;
+  --slate-600: #2f353d;
+  --slate-700: #171a1e;
+  --cream-100: #f7f6f1;
+  --cream-200: #efece3;
+  --cream-300: #e6e3d4;
+  --cream-400: #ded9c6;
+  --cream-500: #a7a395;
+  --cream-600: #6f6d63;
+  --cream-700: #383632;
+  --gray-100: #d8d8d8;
+  --gray-200: #b1b1b1;
+  --gray-300: #898989;
+  --gray-400: #626262;
+  --gray-500: #4a4a4a;
+  --gray-600: #313131;
+  --gray-700: #191919;
+  --tan-100: #ebe3d8;
+  --tan-200: #d7c8b1;
+  --tan-300: #c3ad89;
+  --tan-400: #af9162;
+  --tan-500: #836d4a;
+  --tan-600: #584931;
+  --tan-700: #2c2419;
+  --gold-100: #f9f1da;
+  --gold-200: #f2e2b5;
+  --gold-300: #ecd48f;
+  --gold-400: #e5c56a;
+  --gold-500: #ac9450;
+  --gold-600: #736335;
+  --gold-700: #39311b;
+  --shadow-card: 0 1px 2px rgba(47,53,61,0.04), 0 6px 20px rgba(47,53,61,0.05);
+  --shadow-none: none;
+}
+:root {
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-12: 48px;
+  --radius-sm: 0;
+  --radius-md: 0;
+  --radius-lg: 0;
+  --radius-pill: 999px;
+  --font-display: "IvyOra Text", "IvyOra Display", Georgia, serif;
+  --font-sans: "New Science", "Helvetica Neue", Arial, sans-serif;
+}
+.display-xl { font-family: var(--font-display); font-size: 44px; line-height: 46px; font-weight: 300; letter-spacing: 0; }
+.display-lg { font-family: var(--font-display); font-size: 32px; line-height: 36px; font-weight: 300; letter-spacing: 0; }
+.display-signature { font-family: var(--font-display); font-size: 26px; line-height: 30px; font-weight: 300; letter-spacing: 0; }
+.title-card { font-family: var(--font-display); font-size: 21px; line-height: 26px; font-weight: 300; letter-spacing: 0; }
+.eyebrow { font-family: var(--font-sans); font-size: 11px; line-height: 16px; font-weight: 400; letter-spacing: 0.1em; }
+.credential { font-family: var(--font-sans); font-size: 11px; line-height: 18px; font-weight: 400; letter-spacing: 0.08em; }
+.body { font-family: var(--font-sans); font-size: 15px; line-height: 22px; font-weight: 300; letter-spacing: 0; }
+.caption { font-family: var(--font-sans); font-size: 13px; line-height: 18px; font-weight: 400; letter-spacing: 0.01em; }
+.button { font-family: var(--font-sans); font-size: 12px; line-height: 16px; font-weight: 400; letter-spacing: 0.1em; }
+@font-face { font-family: "IvyOra Text"; src: url("fonts/IvyOraText-Light.woff") format("woff"); font-weight: 100 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "New Science"; src: url("fonts/NewScience-Thin.woff") format("woff"); font-weight: 100; font-style: normal; font-display: swap; }
+@font-face { font-family: "New Science"; src: url("fonts/NewScience-Light.woff") format("woff"); font-weight: 300; font-style: normal; font-display: swap; }
+@font-face { font-family: "New Science"; src: url("fonts/NewScience-Regular.woff") format("woff"); font-weight: 400; font-style: normal; font-display: swap; }
